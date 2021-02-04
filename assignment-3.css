@@ -1,3 +1,28 @@
 body{
-    background-color: tan;
+    background-color: rgb(237, 218, 194);
+    margin: 20px 20px 20px 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-size:18px;
+}
+header{
+text-align:center;
+border-bottom: 1px solid black;
+border-top: 1px solid black;
+font-family: 'Courier New', Courier, monospace;
+text-shadow: 4px 4px 4px #aaa;
+}
+#projectslist, li, a{
+    display:inline-block;
+    text-decoration: none;
+}
+section h2{
+    color:green;
+    text-align:center;
+    
+}
+h3{
+    color:rgb(32, 148, 32);
+}
+#fp, #we, #ed{
+    outline: 3px dotted black;
 }
